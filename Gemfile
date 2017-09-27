@@ -1,4 +1,4 @@
-source 'https://rubygems.org'
+source 'https://artifactory3-eu1.moneysupermarket.com/artifactory/api/gems/all-gems/'
 
 gemspec
 
