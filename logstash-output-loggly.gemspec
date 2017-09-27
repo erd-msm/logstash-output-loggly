@@ -1,5 +1,5 @@
 Gem::Specification.new do |s|
-  s.name            = 'logstash-output-loggly'
+  s.name            = 'logstash-output-loggly-msmfg'
   s.version         = '3.0.2'
   s.licenses        = ['Apache License (2.0)']
   s.summary         = "Got a loggly account? Use logstash to ship logs to Loggly!"
@@ -24,4 +24,3 @@ Gem::Specification.new do |s|
   s.add_development_dependency 'logstash-devutils'
   s.add_development_dependency 'logstash-codec-plain'
 end
-
